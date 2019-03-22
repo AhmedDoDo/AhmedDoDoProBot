@@ -1,1 +1,2 @@
-# AhmedDoDoProBot
+# Probot ✨
+Epic Discord Bot
